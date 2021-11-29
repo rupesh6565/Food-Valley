@@ -29,7 +29,7 @@ git clone https://github.com/rupesh6565/Food-Valley.git
 
 2. Backend setting
 
-'''
+```
 cd backend
 Python -m venv env
 (For Mac) source env/bin/activate
@@ -39,13 +39,13 @@ python manage.py makemigrations
 python manage.py migrate
 python manage.py runserver
 # Open http://127.0.0.1:8000/posts/
-'''
+```
 
 
 3. Frontend setting
 
 
-'''
+```
 cd frontend
 npm install
 npm start
