@@ -73,8 +73,7 @@ const Home = () => {
       <section class="content">
         {showCartList ? (
           <>
-          {/* <h1>Selected Items</h1>
-          <p>Please show this page to the waiter.</p> */}
+
         </>
         ) : (
           <>

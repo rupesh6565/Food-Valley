@@ -113,6 +113,7 @@ ul.items li .info .name-bottom img.icon-heart {
 
 ul.items li .info .name-bottom .count {
   padding: 3px 15px 0 10px;
+  color: #009000;
 }
 
 ul.items li .info .name-bottom button.link-button {
@@ -144,8 +145,9 @@ ul.items li .info .info-bottom .add {
   color: white;
   font-family: "Spartan";
   font-size: 20px;
-  padding: 8px 5px 0px 5px;
+  padding: 12px 0px 5px 10px;
   cursor: pointer;
+  width: 84px;
 }
 
 ul.items li .info .info-bottom .number {
@@ -187,6 +189,7 @@ ul.items li .info .info-bottom .number .minus {
   ul.items li .info .name-bottom .count {
     padding: 7px 10px 0 5px;
     font-size: 13px;
+    
   }
 
   ul.items li .info .name-bottom button.link-button {
@@ -210,6 +213,7 @@ ul.items li .info .info-bottom .number .minus {
     font-size: 14px;
     padding: 0px 15px;
     line-height: 24px;
+
   }
 
   ul.items li .info .info-bottom .number {
