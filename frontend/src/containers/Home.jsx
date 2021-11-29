@@ -73,9 +73,9 @@ const Home = () => {
       <section class="content">
         {showCartList ? (
           <>
-            <h1>Selected Items</h1>
-            <p>Please show this page to the waiter.</p>
-          </>
+          {/* <h1>Selected Items</h1>
+          <p>Please show this page to the waiter.</p> */}
+        </>
         ) : (
           <>
             
@@ -86,24 +86,6 @@ const Home = () => {
                     <option value="Non Veg">Non Veg</option>
                   </select>
                 </div>
-
-                {/* <ul class="category">
-                  <li class="active">
-                    <a href="/">All</a>
-                  </li>
-                  <li>
-                    <a href="/?category=Main Dishes">Main Dishes</a>
-                  </li>
-                  <li>
-                    <a href="/?category=Kids Menus">Kids Menus</a>
-                  </li>
-                  <li>
-                    <a href="/?category=Hot Baguette">Hot Baguette</a>
-                  </li>
-                  <li>
-                    <a href="/?category=Burger Bar">Burger Bar</a>
-                  </li>
-                </ul> */}
                 
           </>
         )}
