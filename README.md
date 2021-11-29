@@ -24,7 +24,7 @@ Check out [API LIVE DEMO](https://backend-rupesh.herokuapp.com/) here!!
 1. Git Clone
 
 ```
-git clone https://github.com/rupesh6565/quick_start_1.git
+git clone https://github.com/rupesh6565/Food-Valley.git
 ```
 
 2. Backend setting
